@@ -1,1 +1,3 @@
-# Calculator-App
+# Calculator App
+# Fully Responsive
+# From scratch NO Bootstrap
