@@ -32,7 +32,7 @@ button {
 }
 
 .button:active {
-  zoom: 90%;
+  zoom: 85%;
 }
 
 input {
@@ -47,14 +47,13 @@ input {
   word-spacing: 4px;
 }
 
-.c-button{
-
+.c-button {
   background-color: green;
   border: 4px darkgreen solid;
   color: white;
 }
 
-.row{
+.row {
   display: flex;
   align-items: center;
   justify-content: space-around;
